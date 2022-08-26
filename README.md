@@ -4,4 +4,4 @@
 
 
 ### required NPM packages:
-"npm i cors dotenv express ts-node typescript"
+"npm i cors dotenv express ts-node typescript nodemon"
